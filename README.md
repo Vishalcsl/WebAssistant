@@ -11,3 +11,4 @@ A platform to do some of the trivial tasks at one place. You can receive notific
     1. Clone/Download the repository
     2. pip install requiremens.txt
     3. python app.py 
+##### Built along with [Rishabh Kumar](https://github.com/rishabhkumar112) as a college project.
